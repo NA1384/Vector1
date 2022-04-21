@@ -27,10 +27,10 @@ Full flight software will be released soon for a complete electronics solution f
 
 <div style="display:flex">
 <img src="./Images/Schematic.png" height="600" width="1000"/>
-<img src="./Images/Board Front.png" height="400"/>
-<img src="./Images/Board Back.png" height="400"/>
-<img src="./Images/Routing Front.png" height="400"/>
-<img src="./Images/Routing Back.png" height="400"/>
+<img src="./Images/Board Front.png" height="380" width="210"/>
+<img src="./Images/Board Back.png" height="380" width="210"/>
+<img src="./Images/Routing Front.png" height="380" width="210"/>
+<img src="./Images/Routing Back.png" height="380" width="210"/>
 </div>
 
 ## Repository Contents
