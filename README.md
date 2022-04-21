@@ -6,8 +6,8 @@ If you have any question, comments or advice on how to use the flight computer d
 
 <div style="display:flex">
 <img src="./Images/Brackets.jpg" height="400" />
-<img src="./Images/Front.jpg" height="400" width="300"/>
-<img src="./Images/Back.jpg" height="400" width="300"/>
+<img src="./Images/Front.jpg" height="400" width="250"/>
+<img src="./Images/Back.jpg" height="400" width="240"/>
 </div>
 
 ## Feature Set
