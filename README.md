@@ -17,7 +17,8 @@ If you have any question, comments or advice on how to use the flight computer d
 - 4 pyrotechnic outputs for nichrome wire, black powder parachute ejection charges or igniting a secondary motor. Pyro channels 3 & 4 are PWM capable allowing for variable current outputs through software making them more suitable for nichrome wire outputs. Continuity detection on all channels.
 - DC motor driver for roll control through a reaction wheel. 
 - 32 Mb non-volatile flash storage for data recording during flight along with a microSD card port to retrieve flight data after the flight.
-- RGB LED and buzzer for state indication.
+- RGB LED and buzzer for state indication. The LED is also setup to indicate serial communications to and from the microcontroller.
+- Board is 40mm wide and 75mm tall and has 4 layers. All components except for servo outputs and terminals are SMD.
 
 ## Flight Software
 
@@ -27,10 +28,10 @@ Full flight software will be released soon for a complete electronics solution f
 
 <div style="display:flex">
 <img src="./Images/Schematic.png" height="600" width="1000"/>
-<img src="./Images/Board Front.png" height="380" width="210"/>
-<img src="./Images/Board Back.png" height="380" width="210"/>
-<img src="./Images/Routing Front.png" height="380" width="210"/>
-<img src="./Images/Routing Back.png" height="380" width="210"/>
+<img src="./Images/Board Front.png" height="375" width="205"/>
+<img src="./Images/Board Back.png" height="375" width="205"/>
+<img src="./Images/Routing Front.png" height="375" width="205"/>
+<img src="./Images/Routing Back.png" height="375" width="205"/>
 </div>
 
 ## Repository Contents
